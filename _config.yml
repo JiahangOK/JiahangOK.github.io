@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiahang Wu"
+title                    : "Jiahang Wu|吴家行"
 title_separator          : "-"
 name                     : &name "Jiahang Wu"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiahang Wu"
   avatar           : "WechatIMG75.jpeg"
-  bio              : "B.Eng.@BJTU\nM.Eng.@TSU"
+  bio              : "B.Eng@BJTU, M.Eng@TSU"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
