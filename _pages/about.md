@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiahang Wu is currently an M.Eng student at the School of Software, Tsinghua University since 2020. Prior to that, he received his B.Eng degree in Software Engineering in 2020 from the School of Software at Beijing Jiaotong University.  
+I'm currently an M.Eng student at the School of Software, Tsinghua University since 2020. Prior to that, I received my B.Eng degree in Software Engineering in 2020 from the School of Software at Beijing Jiaotong University.  
 My research interests include the Internet of Things (IoTs), edge computing, and network systems.
 
 News
