@@ -15,7 +15,7 @@ My research interests include the Internet of Things (IoTs), edge computing, and
 NEWS
 ======
 - [Jun. 2020] I received B.S. degree from Beijing Jiaotong University.
-- [Jun. 2020] I received Outstanding Graduates of Beijing, Outstanding Graduates of  Beijing Jiaotong University from Beijing Jiaotong University.
+- [Jun. 2020] I received **Outstanding Graduates of Beijing** and **Outstanding Graduates of  Beijing Jiaotong University** from Beijing Jiaotong University.
 
 HONORS AND AWARDS
 ======
