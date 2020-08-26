@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Jiahang Wu"
+excerpt: " "
 author_profile: true
 redirect_from: 
   - /about/
