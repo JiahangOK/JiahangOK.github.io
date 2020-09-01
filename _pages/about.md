@@ -12,15 +12,16 @@ Jiahang Wu
 Institute of Trustworthy Network and System   
 School of Software, Tsinghua University  
 
+Location: East Main Building - Area 11, Office 211, Tsinghua University, Beijing, China
+
+E-mail:  wujx20 AT mails DOT tsinghua DOT edu DOT cn
+
 Biography
 ======
 I'm currently an M.E. student at the [School of Software, Tsinghua University](http://www.thss.tsinghua.edu.cn/) under supervision of [Prof. Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) since 2020. Prior to that, I received my B.S. degree in Software Engineering in 2020 from the [School of Software at Beijing Jiaotong University](http://sse.bjtu.edu.cn/cms/).  
   
 My research interests include the Internet of Things (IoTs), edge computing, and network systems.
 
-Location: East Main Building - Area 11, Office 211, Tsinghua University, Beijing, China
-
-E-mail:  wujx20 AT mails DOT tsinghua DOT edu DOT cn
 
 News
 ======
