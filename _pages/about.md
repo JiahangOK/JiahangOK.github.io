@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Jiahang Wu  
-Institute of Trustworthy Network and System   
-School of Software, Tsinghua University  
+**Jiahang Wu**  
+**Institute of Trustworthy Network and System**   
+**School of Software, Tsinghua University**  
 
 Location: East Main Building - Area 11, Office 211, Tsinghua University, Beijing, China
 
