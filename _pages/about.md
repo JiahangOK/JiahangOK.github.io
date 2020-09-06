@@ -18,14 +18,14 @@ E-mail:  wujx20 AT mails DOT tsinghua DOT edu DOT cn
 
 Biography
 ======
-I'm currently an M.E. student at the [School of Software, Tsinghua University](http://www.thss.tsinghua.edu.cn/) under supervision of [Prof. Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) since 2020. Prior to that, I received my B.S. degree in Software Engineering in 2020 from the [School of Software at Beijing Jiaotong University](http://sse.bjtu.edu.cn/cms/).  
+I'm currently an M.E. student at the [School of Software, Tsinghua University](http://www.thss.tsinghua.edu.cn/) under supervision of [Prof. Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) since 2020. Prior to that, I received my B.E. degree in Software Engineering in 2020 from the [School of Software at Beijing Jiaotong University](http://sse.bjtu.edu.cn/cms/).  
   
 My research interests include the Internet of Things (IoTs), edge computing, and network systems.
 
 
 News
 ======
-- [Jun. 2020] I received B.S. degree from Beijing Jiaotong University.
+- [Jun. 2020] I received B.E. degree from Beijing Jiaotong University.
 - [Jun. 2020] I received **Outstanding Graduates of Beijing** and **Outstanding Graduates of  Beijing Jiaotong University** from Beijing Jiaotong University.
 
 Honors and Awards
