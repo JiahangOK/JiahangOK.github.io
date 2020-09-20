@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About"
+title: "Jiahang Wu"
 excerpt: "Jiahang Wu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-**Jiahang Wu**  
 **Institute of Trustworthy Network and System**   
 **School of Software, Tsinghua University**  
 
