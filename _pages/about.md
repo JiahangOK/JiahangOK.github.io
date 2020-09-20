@@ -32,7 +32,8 @@ Honors and Awards
 ======
 - Outstanding Graduates of Beijing, 2020.
 - Outstanding Graduates of  Beijing Jiaotong University, 2020.
-- Zhi-Xing Scholarship Award of Beijing Jiaotong University (for Undergraduates) [北京交通大学知行奖学金(本科生)] (10 undergraduates per year), 2019.
+- Zhi-Xing Scholarship Award of Beijing Jiaotong University (for Undergraduates)(10 undergraduates per year), 2019.
+  -  2019年北京交通大学知行奖学金(本科生)
 - National Scholarship, Beijing Jiaotong University, 2017, 2018, 2019.
 
 Useful Links
