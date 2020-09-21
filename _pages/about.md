@@ -1,17 +1,16 @@
 ---
 permalink: /
-title: "Jiahang Wu"
+title: ""
 excerpt: "Jiahang Wu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+**MobiSense Group**
 **Institute of Trustworthy Network and System**   
 **School of Software, Tsinghua University**  
-
 Location: East Main Building - Area 11, Office 211, Tsinghua University, Beijing, China
-
 E-mail:  wujx20 AT mails DOT tsinghua DOT edu DOT cn
 
 Biography
