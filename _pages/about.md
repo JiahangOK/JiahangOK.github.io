@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**MobiSense Group**
+**MobiSense Group**  
 **Institute of Trustworthy Network and System**   
 **School of Software, Tsinghua University**  
 Location: East Main Building - Area 11, Office 211, Tsinghua University, Beijing, China
