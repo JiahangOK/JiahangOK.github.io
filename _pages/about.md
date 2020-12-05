@@ -19,15 +19,15 @@ I'm currently an M.E. student at the [School of Software, Tsinghua University](h
   
 My research interests include the Internet of Things (IoTs), Edge Computing.
 
-Publications
-======
-1. <span style="color: red; font-weight: bold;">[IEEE INFOCOM'21]</span> Xu Wang, Zheng Yang, **Jiahang Wu**, Yi Zhao, Zimu Zhou, EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision, IEEE INFOCOM, 2021. (to appear)
-
 News
 ======
 - [Dec. 2020] Our paper **EdgeDuet** was accepted by INFCOM 2021.
 - [Jun. 2020] I received B.E. degree from Beijing Jiaotong University.
 - [Jun. 2020] I received **Outstanding Graduates of Beijing** and **Outstanding Graduates of  Beijing Jiaotong University** from Beijing Jiaotong University.
+
+Publications
+======
+1. <span style="color: red; font-weight: bold;">[IEEE INFOCOM'21]</span> Xu Wang, Zheng Yang, **Jiahang Wu**, Yi Zhao, Zimu Zhou, EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision, IEEE INFOCOM, 2021. (to appear)
 
 Honors and Awards
 ======
