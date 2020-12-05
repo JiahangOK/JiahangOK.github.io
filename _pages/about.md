@@ -21,7 +21,7 @@ My research interests include the Internet of Things (IoTs), Edge Computing.
 
 Publications
 ======
-1. [**IEEE INFOCOM'21**] Xu Wang, Zheng Yang, Jiahang Wu, Yi Zhao, Zimu Zhou, EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision, IEEE INFOCOM, 2021.
+1. <span style="color: red;">[IEEE INFOCOM'21]<\span> Xu Wang, Zheng Yang, **Jiahang Wu**, Yi Zhao, Zimu Zhou, EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision, IEEE INFOCOM, 2021.
 
 News
 ======
