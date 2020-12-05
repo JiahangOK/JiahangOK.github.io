@@ -19,6 +19,9 @@ I'm currently an M.E. student at the [School of Software, Tsinghua University](h
   
 My research interests include the Internet of Things (IoTs), Edge Computing.
 
+Publications
+======
+1. [IEEE INFOCOM'21] Xu Wang, Zheng Yang, Jiahang Wu, Yi Zhao, Zimu Zhou, EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision, IEEE INFOCOM, 2021.
 
 News
 ======
