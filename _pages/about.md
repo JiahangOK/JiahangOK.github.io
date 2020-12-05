@@ -25,7 +25,7 @@ Publications
 
 News
 ======
-- [Dec. 2020], our paper EdgeDuet was accepted by INFCOM 2021.
+- [Dec. 2020] Our paper **EdgeDuet** was accepted by INFCOM 2021.
 - [Jun. 2020] I received B.E. degree from Beijing Jiaotong University.
 - [Jun. 2020] I received **Outstanding Graduates of Beijing** and **Outstanding Graduates of  Beijing Jiaotong University** from Beijing Jiaotong University.
 
