@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**MobiSense Group**  
+
 **Institute of Trustworthy Network and System**   
 **School of Software, Tsinghua University**  
 Location: East Main Building - Area 11, Office 211, Tsinghua University, Beijing, China  
@@ -21,13 +21,13 @@ My research interests include the Internet of Things (IoTs), Edge Computing.
 
 News
 ======
-- [Dec. 2020] Our paper **EdgeDuet** was accepted by INFCOM 2021.
+- [Dec. 2020] Our paper **”EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision”** was accepted by INFOCOM 2021.
 - [Jun. 2020] I received B.E. degree from Beijing Jiaotong University.
 - [Jun. 2020] I received **Outstanding Graduates of Beijing** and **Outstanding Graduates of  Beijing Jiaotong University** from Beijing Jiaotong University.
 
 Publications
 ======
-1. <span style="color: red; font-weight: bold;">[IEEE INFOCOM'21]</span> Xu Wang, Zheng Yang, **Jiahang Wu**, Yi Zhao, Zimu Zhou, EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision, IEEE INFOCOM, 2021. (to appear)
+1. [**INFOCOM’21**] Xu Wang, Zheng Yang, **Jiahang Wu**, Yi Zhao, Zimu Zhou, “EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision“, In Proceedings of the IEEE International Conference on Computer Communications, Vancouver, Canada, May 10 - May 13, 2021. (AR: 252/1266 = 19.9%) (to appear)[\[pdf\]]()
 
 Honors and Awards
 ======
