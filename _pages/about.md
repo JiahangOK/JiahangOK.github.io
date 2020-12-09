@@ -21,9 +21,9 @@ My research interests include the Internet of Things (IoTs), Edge Computing.
 
 News
 ======
-- [Dec. 2020] Our paper **”EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision”** was accepted by INFOCOM 2021.
-- [Jun. 2020] I received B.E. degree from Beijing Jiaotong University.
-- [Jun. 2020] I received **Outstanding Graduates of Beijing** and **Outstanding Graduates of  Beijing Jiaotong University** from Beijing Jiaotong University.
+- [2020/12] Our paper **”EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision”** was accepted by INFOCOM 2021.
+- [2020/06] I received B.E. degree from Beijing Jiaotong University.
+- [2020/06] I received **Outstanding Graduates of Beijing** and **Outstanding Graduates of  Beijing Jiaotong University** from Beijing Jiaotong University.
 
 Publications
 ======
