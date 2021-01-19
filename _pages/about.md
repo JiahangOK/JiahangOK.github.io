@@ -27,7 +27,7 @@ News
 
 Publications
 ======
-1. [<span style="color: red;font-weight: bold;">IEEE INFOCOM’21</span>] Xu Wang, Zheng Yang, **Jiahang Wu**, Yi Zhao, Zimu Zhou, “EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision“, In Proceedings of the IEEE International Conference on Computer Communications, Vancouver, Canada, May 10 - May 13, 2021. (AR: 252/1266 = 19.9%) (to appear)[\[pdf\]]()
+1. [<span style="color: red;font-weight: bold;">IEEE INFOCOM’21</span>] Xu Wang, Zheng Yang, **Jiahang Wu**, Yi Zhao, Zimu Zhou, “EdgeDuet: Tiling Small Object Detection for Edge Assisted Autonomous Mobile Vision“, In Proceedings of the IEEE International Conference on Computer Communications, Vancouver, Canada, May 10 - May 13, 2021. (to appear)[\[pdf\]]()
 
 Honors and Awards
 ======
