@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiahang Wu (吴家行)"
-  avatar           : "证件照.jpg"
+  avatar           : "证件照-无p图.jpg"
   bio              : "An M.E. student from School of Software, Tsinghua University."
   location         : "Beijing, China"
   employer         :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "Jiahang Wu"
   wikipedia        :
 
 
