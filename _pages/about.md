@@ -44,4 +44,6 @@ Useful Links
 - [Networking Conferences Statistics](https://sites.cs.ucsb.edu/~almeroth/conf/stats/)
 - [Call4Papers](http://www.call4papers.cn:8080/index.html)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=247&t=tt&d=okppUMA7AVqzrsahhFa_0onwFr5jB-AB3jj1lgRdbp8'></script>
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=371&t=tt&d=okppUMA7AVqzrsahhFa_0onwFr5jB-AB3jj1lgRdbp8&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
